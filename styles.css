@@ -8,6 +8,9 @@
 /*Estilo para o corpo da página*/
 body {
   font-family: Arial, sans-serif;/*Define a fonte padrão da página*/
-  
+  background-color: #f4f4f9;/*Cor de fundo suave para o corpo*/
+  color:#333;/*Cor do texto,um tom de cinza escuro*/
+  line-height:1.6;/*Altura da linha para facilitar a leitura*/
+  padding:20px;/*Espaçamento interno em torno do conteuo*/
 
 }
