@@ -30,3 +30,7 @@ margin-bottom: 10px; /*Espaço abaixo do tiulo*/
 header p{
   font-size: 1.2em; /*tamanho da fonte do parágrafo*/
 }
+/*Estilo para a área principal do conteúdo*/
+main {
+  max-width: 800px; /*limita a largura máxima da área de conteúdo*/
+margin: 20px auto; /*centraliza o conteúdo a adiciona margem*/
