@@ -11,6 +11,22 @@ body {
   background-color: #f4f4f9;/*Cor de fundo suave para o corpo*/
   color:#333;/*Cor do texto,um tom de cinza escuro*/
   line-height:1.6;/*Altura da linha para facilitar a leitura*/
-  padding:20px;/*Espaçamento interno em torno do conteuo*/
+  padding:20px;/*Espaçamento interno em torno do conteudo*/
 
+}
+/*Estilo para o cabeçalho*/
+header {
+  background-color:#0073e6; /*Cor de fundo azul*/
+color: write; /*Cor de texto branca*/
+padding: 20px; /*Espaçamento interno*/
+text-align: center; /*Centraliza o texto no cabeçalho*/
+}
+/*Estilo para os títulos dentro do cabeçalho*/
+header h1{
+  font-size: 2.5em; /*Tamanho da fonte do tiulo*/
+margin-bottom: 10px; /*Espaço abaixo do tiulo*/
+}
+/*Estilo para o parágrafo dentro do cabeçalho*/
+header p{
+  font-size: 1.2em; /*tamanho da fonte do parágrafo*/
 }
